@@ -2,4 +2,4 @@ Aprendendo python
 
 Teste
 
-inslucir
+Incluir
